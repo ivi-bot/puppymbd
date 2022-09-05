@@ -1,0 +1,3797 @@
+[
+	{
+		"idmascota": 1020,
+		"idfundacion": 2,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-09-13T21:11:28.141Z",
+		"responsable": {
+			"firstName": "Rocio",
+			"lastName": "Ziemann"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1021,
+		"idfundacion": 1,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-08-02T01:32:50.659Z",
+		"responsable": {
+			"firstName": "Aurelio",
+			"lastName": "Volkman"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No comida procesada",
+			"No tener niños pequeños",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1022,
+		"idfundacion": 3,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-01-29T07:30:21.917Z",
+		"responsable": {
+			"firstName": "Lucius",
+			"lastName": "Sauer"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1023,
+		"idfundacion": 4,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2022-09-27T06:34:29.766Z",
+		"responsable": {
+			"firstName": "Elise",
+			"lastName": "Schuster"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1024,
+		"idfundacion": 3,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-10-23T15:26:14.975Z",
+		"responsable": {
+			"firstName": "Kieran",
+			"lastName": "Roberts"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1025,
+		"idfundacion": 1,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-11-25T14:32:21.272Z",
+		"responsable": {
+			"firstName": "Billy",
+			"lastName": "Kassulke"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"No comida procesada",
+			"Hogar con más mascotas",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1026,
+		"idfundacion": 2,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-02-02T19:41:38.112Z",
+		"responsable": {
+			"firstName": "Fannie",
+			"lastName": "Paucek"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Revisiones periódicas",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1027,
+		"idfundacion": 2,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-07-25T10:38:20.792Z",
+		"responsable": {
+			"firstName": "Lillie",
+			"lastName": "Hintz"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1028,
+		"idfundacion": 3,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-01-11T18:08:46.441Z",
+		"responsable": {
+			"firstName": "Kaley",
+			"lastName": "Gutkowski"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1029,
+		"idfundacion": 3,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-06-03T11:41:39.995Z",
+		"responsable": {
+			"firstName": "Jade",
+			"lastName": "Schmidt"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Revisiones periódicas",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1030,
+		"idfundacion": 4,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-02-20T00:36:53.135Z",
+		"responsable": {
+			"firstName": "Emely",
+			"lastName": "Wintheiser"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1031,
+		"idfundacion": 4,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-07-16T21:27:18.380Z",
+		"responsable": {
+			"firstName": "Morton",
+			"lastName": "Mills"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1032,
+		"idfundacion": 4,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-06-11T22:25:19.411Z",
+		"responsable": {
+			"firstName": "Brandyn",
+			"lastName": "Kuvalis"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1033,
+		"idfundacion": 2,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-09-23T19:02:15.884Z",
+		"responsable": {
+			"firstName": "Rhoda",
+			"lastName": "Fadel"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1034,
+		"idfundacion": 2,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-03-13T22:29:31.322Z",
+		"responsable": {
+			"firstName": "Ludwig",
+			"lastName": "Stehr"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1035,
+		"idfundacion": 3,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-06-11T23:26:42.407Z",
+		"responsable": {
+			"firstName": "Dwight",
+			"lastName": "Halvorson"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1036,
+		"idfundacion": 4,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-07-22T09:38:18.723Z",
+		"responsable": {
+			"firstName": "Derrick",
+			"lastName": "Murphy"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1037,
+		"idfundacion": 2,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-04-02T19:04:55.735Z",
+		"responsable": {
+			"firstName": "Rozella",
+			"lastName": "Nader"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Revisiones periódicas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1038,
+		"idfundacion": 1,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-11-17T20:10:43.032Z",
+		"responsable": {
+			"firstName": "Layla",
+			"lastName": "Hartmann"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Sensible al frío",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1039,
+		"idfundacion": 1,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-09-16T09:46:02.319Z",
+		"responsable": {
+			"firstName": "Arnold",
+			"lastName": "Barton"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1040,
+		"idfundacion": 1,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2022-10-29T19:26:16.132Z",
+		"responsable": {
+			"firstName": "Rhea",
+			"lastName": "Wolf"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"No comida procesada",
+			"Hogar con más mascotas",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1041,
+		"idfundacion": 3,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-02-04T02:01:30.049Z",
+		"responsable": {
+			"firstName": "Vincenzo",
+			"lastName": "Metz"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1042,
+		"idfundacion": 3,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-02-28T17:04:38.657Z",
+		"responsable": {
+			"firstName": "Aliza",
+			"lastName": "Moore"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1043,
+		"idfundacion": 4,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-11-14T17:37:28.205Z",
+		"responsable": {
+			"firstName": "Karl",
+			"lastName": "Gislason"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"No comida procesada",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1044,
+		"idfundacion": 3,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-06-25T06:44:56.666Z",
+		"responsable": {
+			"firstName": "Flavie",
+			"lastName": "Windler"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"No tener niños pequeños",
+			"Hogar con más mascotas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1045,
+		"idfundacion": 3,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-06-21T14:49:29.340Z",
+		"responsable": {
+			"firstName": "Dasia",
+			"lastName": "Carter"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1046,
+		"idfundacion": 3,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-03-25T06:49:54.766Z",
+		"responsable": {
+			"firstName": "Bernhard",
+			"lastName": "Schroeder"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1047,
+		"idfundacion": 1,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2022-12-16T19:06:21.471Z",
+		"responsable": {
+			"firstName": "Nicole",
+			"lastName": "Abernathy"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1048,
+		"idfundacion": 1,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2022-12-14T22:10:59.279Z",
+		"responsable": {
+			"firstName": "Harold",
+			"lastName": "Connelly"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1049,
+		"idfundacion": 4,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-08-11T01:26:26.846Z",
+		"responsable": {
+			"firstName": "Garrison",
+			"lastName": "Stracke"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1050,
+		"idfundacion": 2,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-02-21T04:07:33.810Z",
+		"responsable": {
+			"firstName": "Bridget",
+			"lastName": "Schiller"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No tener niños pequeños",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1051,
+		"idfundacion": 4,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-10-31T21:16:11.811Z",
+		"responsable": {
+			"firstName": "Duane",
+			"lastName": "Ledner"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Sensible al frío",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1052,
+		"idfundacion": 3,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-04-11T18:21:57.028Z",
+		"responsable": {
+			"firstName": "Jessie",
+			"lastName": "Schneider"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1053,
+		"idfundacion": 3,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-05-01T13:04:43.222Z",
+		"responsable": {
+			"firstName": "Jesse",
+			"lastName": "Cronin"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1054,
+		"idfundacion": 1,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-06-07T09:12:07.682Z",
+		"responsable": {
+			"firstName": "Dave",
+			"lastName": "Kohler"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1055,
+		"idfundacion": 2,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-06-28T16:18:16.436Z",
+		"responsable": {
+			"firstName": "Edwina",
+			"lastName": "Jacobi"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1056,
+		"idfundacion": 4,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2022-09-18T09:28:36.488Z",
+		"responsable": {
+			"firstName": "Ulices",
+			"lastName": "Bauch"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1057,
+		"idfundacion": 4,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-01-29T05:45:31.351Z",
+		"responsable": {
+			"firstName": "Yasmeen",
+			"lastName": "Toy"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1058,
+		"idfundacion": 4,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-03-25T19:17:39.558Z",
+		"responsable": {
+			"firstName": "Amani",
+			"lastName": "Bayer"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1059,
+		"idfundacion": 2,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-04-09T07:38:04.064Z",
+		"responsable": {
+			"firstName": "Giuseppe",
+			"lastName": "Simonis"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1060,
+		"idfundacion": 4,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-05-02T16:12:32.665Z",
+		"responsable": {
+			"firstName": "Tessie",
+			"lastName": "Cruickshank"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1061,
+		"idfundacion": 2,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-09-25T02:30:17.983Z",
+		"responsable": {
+			"firstName": "Tiffany",
+			"lastName": "Gorczany"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1062,
+		"idfundacion": 2,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-11-03T11:56:40.000Z",
+		"responsable": {
+			"firstName": "Anahi",
+			"lastName": "Grant"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No tener niños pequeños",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1063,
+		"idfundacion": 2,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-10-04T18:51:08.050Z",
+		"responsable": {
+			"firstName": "Tristin",
+			"lastName": "Herman"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1064,
+		"idfundacion": 4,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-05-19T13:22:45.963Z",
+		"responsable": {
+			"firstName": "Alisha",
+			"lastName": "Koch"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Sensible al frío",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1065,
+		"idfundacion": 1,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-07-24T00:23:30.519Z",
+		"responsable": {
+			"firstName": "Brice",
+			"lastName": "Bogisich"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1066,
+		"idfundacion": 2,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2022-10-26T01:53:59.179Z",
+		"responsable": {
+			"firstName": "Unique",
+			"lastName": "Mertz"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1067,
+		"idfundacion": 2,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-09-29T23:51:38.646Z",
+		"responsable": {
+			"firstName": "Gail",
+			"lastName": "Gerlach"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1068,
+		"idfundacion": 2,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-05-21T23:49:13.347Z",
+		"responsable": {
+			"firstName": "Virginia",
+			"lastName": "Leuschke"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"No comida procesada",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1069,
+		"idfundacion": 1,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-10-22T19:39:37.292Z",
+		"responsable": {
+			"firstName": "Gussie",
+			"lastName": "Adams"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1070,
+		"idfundacion": 1,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-11-08T09:15:18.587Z",
+		"responsable": {
+			"firstName": "Kobe",
+			"lastName": "Bogan"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1071,
+		"idfundacion": 4,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-10-12T18:14:58.165Z",
+		"responsable": {
+			"firstName": "Caroline",
+			"lastName": "Macejkovic"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Revisiones periódicas",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1072,
+		"idfundacion": 4,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-10-30T13:44:54.580Z",
+		"responsable": {
+			"firstName": "Alexa",
+			"lastName": "Senger"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1073,
+		"idfundacion": 3,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-05-30T04:09:45.706Z",
+		"responsable": {
+			"firstName": "Rey",
+			"lastName": "Lindgren"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1074,
+		"idfundacion": 2,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-03-31T19:03:28.323Z",
+		"responsable": {
+			"firstName": "Raphaelle",
+			"lastName": "Schmidt"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1075,
+		"idfundacion": 3,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-06-17T07:08:05.717Z",
+		"responsable": {
+			"firstName": "Ahmad",
+			"lastName": "Dach"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1076,
+		"idfundacion": 2,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-08-18T16:05:58.745Z",
+		"responsable": {
+			"firstName": "Kassandra",
+			"lastName": "Feeney"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1077,
+		"idfundacion": 3,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-11-10T02:50:40.015Z",
+		"responsable": {
+			"firstName": "Daphne",
+			"lastName": "Sawayn"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"No tener niños pequeños",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1078,
+		"idfundacion": 4,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-02-28T09:36:17.213Z",
+		"responsable": {
+			"firstName": "Carmela",
+			"lastName": "Jast"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1079,
+		"idfundacion": 2,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-04-16T01:25:56.973Z",
+		"responsable": {
+			"firstName": "Alvera",
+			"lastName": "Luettgen"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1080,
+		"idfundacion": 1,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-08-10T02:38:01.224Z",
+		"responsable": {
+			"firstName": "Winona",
+			"lastName": "Botsford"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Revisiones periódicas",
+			"Sensible al frío",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1081,
+		"idfundacion": 3,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-05-16T10:57:21.126Z",
+		"responsable": {
+			"firstName": "Alexandrine",
+			"lastName": "Koelpin"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1082,
+		"idfundacion": 4,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-02-10T11:05:10.402Z",
+		"responsable": {
+			"firstName": "Bernard",
+			"lastName": "Farrell"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1083,
+		"idfundacion": 3,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-05-26T05:02:30.210Z",
+		"responsable": {
+			"firstName": "Everardo",
+			"lastName": "Balistreri"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"No comida procesada",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1084,
+		"idfundacion": 4,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-05-08T09:25:39.343Z",
+		"responsable": {
+			"firstName": "Duane",
+			"lastName": "Stokes"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1085,
+		"idfundacion": 3,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-12-22T15:05:38.212Z",
+		"responsable": {
+			"firstName": "Trystan",
+			"lastName": "Olson"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1086,
+		"idfundacion": 2,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-05-22T23:15:09.607Z",
+		"responsable": {
+			"firstName": "Lula",
+			"lastName": "Walter"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1087,
+		"idfundacion": 2,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-05-11T19:17:24.776Z",
+		"responsable": {
+			"firstName": "Doris",
+			"lastName": "Brekke"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1088,
+		"idfundacion": 4,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-12-07T08:29:34.037Z",
+		"responsable": {
+			"firstName": "Schuyler",
+			"lastName": "Kutch"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1089,
+		"idfundacion": 3,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2022-11-23T06:57:30.865Z",
+		"responsable": {
+			"firstName": "June",
+			"lastName": "Sauer"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No tener niños pequeños",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1090,
+		"idfundacion": 1,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2022-12-27T03:01:19.824Z",
+		"responsable": {
+			"firstName": "Tommie",
+			"lastName": "Reilly"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1091,
+		"idfundacion": 1,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-04-24T21:25:13.589Z",
+		"responsable": {
+			"firstName": "Salma",
+			"lastName": "Schuster"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1092,
+		"idfundacion": 2,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-07-20T13:29:27.546Z",
+		"responsable": {
+			"firstName": "Lewis",
+			"lastName": "Hagenes"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1093,
+		"idfundacion": 3,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-05-31T16:26:10.989Z",
+		"responsable": {
+			"firstName": "Alejandra",
+			"lastName": "Gaylord"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1094,
+		"idfundacion": 4,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-04-01T23:29:17.870Z",
+		"responsable": {
+			"firstName": "Pink",
+			"lastName": "Leuschke"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"No tener niños pequeños",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1095,
+		"idfundacion": 1,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-08-13T00:32:45.599Z",
+		"responsable": {
+			"firstName": "Alba",
+			"lastName": "Baumbach"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1096,
+		"idfundacion": 3,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-01-09T02:39:56.454Z",
+		"responsable": {
+			"firstName": "Dasia",
+			"lastName": "Koepp"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1097,
+		"idfundacion": 2,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2022-12-21T15:34:45.713Z",
+		"responsable": {
+			"firstName": "Adeline",
+			"lastName": "Weimann"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1098,
+		"idfundacion": 4,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2022-10-09T07:23:54.069Z",
+		"responsable": {
+			"firstName": "Thurman",
+			"lastName": "Skiles"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1099,
+		"idfundacion": 2,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-02-20T07:23:26.418Z",
+		"responsable": {
+			"firstName": "Miguel",
+			"lastName": "Vandervort"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1100,
+		"idfundacion": 2,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-09-28T00:58:44.765Z",
+		"responsable": {
+			"firstName": "Ellsworth",
+			"lastName": "Marvin"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1101,
+		"idfundacion": 4,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-01-28T12:37:00.951Z",
+		"responsable": {
+			"firstName": "Abelardo",
+			"lastName": "Keeling"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1102,
+		"idfundacion": 1,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-01-25T14:00:48.710Z",
+		"responsable": {
+			"firstName": "Vincenzo",
+			"lastName": "Goyette"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1103,
+		"idfundacion": 3,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-11-11T17:52:45.123Z",
+		"responsable": {
+			"firstName": "Winnifred",
+			"lastName": "Grant"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1104,
+		"idfundacion": 2,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-06-15T18:04:25.571Z",
+		"responsable": {
+			"firstName": "Nova",
+			"lastName": "Botsford"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Sensible al frío",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1105,
+		"idfundacion": 2,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-06-04T12:04:20.773Z",
+		"responsable": {
+			"firstName": "Randy",
+			"lastName": "Leffler"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1106,
+		"idfundacion": 4,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-07-09T15:27:29.874Z",
+		"responsable": {
+			"firstName": "Cecil",
+			"lastName": "Streich"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1107,
+		"idfundacion": 2,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-01-22T01:45:56.568Z",
+		"responsable": {
+			"firstName": "Delphia",
+			"lastName": "Runte"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1108,
+		"idfundacion": 2,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-05-28T07:41:50.647Z",
+		"responsable": {
+			"firstName": "Kim",
+			"lastName": "Gleichner"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1109,
+		"idfundacion": 4,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-12-25T12:56:37.154Z",
+		"responsable": {
+			"firstName": "Reid",
+			"lastName": "Hoeger"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1110,
+		"idfundacion": 4,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-02-04T16:07:56.020Z",
+		"responsable": {
+			"firstName": "Aaliyah",
+			"lastName": "Schmidt"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"No tener niños pequeños",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1111,
+		"idfundacion": 3,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-10-28T00:36:40.572Z",
+		"responsable": {
+			"firstName": "Barney",
+			"lastName": "Schamberger"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1112,
+		"idfundacion": 2,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-07-11T19:10:25.269Z",
+		"responsable": {
+			"firstName": "Harold",
+			"lastName": "Zemlak"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1113,
+		"idfundacion": 1,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-07-16T20:57:35.203Z",
+		"responsable": {
+			"firstName": "Anna",
+			"lastName": "Jenkins"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1114,
+		"idfundacion": 3,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-12-15T19:50:44.297Z",
+		"responsable": {
+			"firstName": "Deshaun",
+			"lastName": "Emard"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Sensible al frío",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1115,
+		"idfundacion": 2,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-05-06T08:31:18.839Z",
+		"responsable": {
+			"firstName": "Kattie",
+			"lastName": "Kuhlman"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1116,
+		"idfundacion": 4,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-03-13T02:28:53.311Z",
+		"responsable": {
+			"firstName": "Breanna",
+			"lastName": "Parker"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No tener niños pequeños",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1117,
+		"idfundacion": 2,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-02-11T23:22:17.951Z",
+		"responsable": {
+			"firstName": "Emerald",
+			"lastName": "Gorczany"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Sensible al frío",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1118,
+		"idfundacion": 3,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-11-10T03:49:42.771Z",
+		"responsable": {
+			"firstName": "Romaine",
+			"lastName": "Satterfield"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Hogar con más mascotas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1119,
+		"idfundacion": 2,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-07-25T08:06:43.858Z",
+		"responsable": {
+			"firstName": "Neoma",
+			"lastName": "Kassulke"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1120,
+		"idfundacion": 1,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2022-10-07T19:05:36.752Z",
+		"responsable": {
+			"firstName": "Dock",
+			"lastName": "Glover"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1121,
+		"idfundacion": 4,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-09-22T11:04:08.673Z",
+		"responsable": {
+			"firstName": "Dedrick",
+			"lastName": "Adams"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1122,
+		"idfundacion": 2,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-11-08T12:54:50.819Z",
+		"responsable": {
+			"firstName": "Reyna",
+			"lastName": "Walter"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1123,
+		"idfundacion": 1,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2022-10-31T14:32:05.934Z",
+		"responsable": {
+			"firstName": "Dexter",
+			"lastName": "Sauer"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1124,
+		"idfundacion": 3,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-11-13T22:13:11.965Z",
+		"responsable": {
+			"firstName": "Michel",
+			"lastName": "Hagenes"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1125,
+		"idfundacion": 3,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-09-26T09:56:33.280Z",
+		"responsable": {
+			"firstName": "Coleman",
+			"lastName": "Morissette"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1126,
+		"idfundacion": 2,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2022-11-11T16:43:49.329Z",
+		"responsable": {
+			"firstName": "Izaiah",
+			"lastName": "Howe"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1127,
+		"idfundacion": 3,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-09-13T20:51:54.158Z",
+		"responsable": {
+			"firstName": "Cade",
+			"lastName": "Lind"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1128,
+		"idfundacion": 1,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-06-11T20:25:14.756Z",
+		"responsable": {
+			"firstName": "Bette",
+			"lastName": "Bergnaum"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Hogar con más mascotas",
+			"No tener niños pequeños",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1129,
+		"idfundacion": 4,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-09-14T23:04:20.661Z",
+		"responsable": {
+			"firstName": "Larue",
+			"lastName": "Bayer"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"No comida procesada",
+			"No tener niños pequeños",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1130,
+		"idfundacion": 1,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-03-24T00:23:17.992Z",
+		"responsable": {
+			"firstName": "Camille",
+			"lastName": "Daniel"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1131,
+		"idfundacion": 3,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-01-23T14:00:19.448Z",
+		"responsable": {
+			"firstName": "Tad",
+			"lastName": "Douglas"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1132,
+		"idfundacion": 3,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-10-22T14:44:14.835Z",
+		"responsable": {
+			"firstName": "Abby",
+			"lastName": "Lesch"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Hogar con más mascotas",
+			"No tener niños pequeños",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1133,
+		"idfundacion": 3,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2022-12-20T02:54:32.901Z",
+		"responsable": {
+			"firstName": "Emilio",
+			"lastName": "Cummerata"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1134,
+		"idfundacion": 2,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-03-15T07:12:16.618Z",
+		"responsable": {
+			"firstName": "Percival",
+			"lastName": "Rempel"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1135,
+		"idfundacion": 4,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-08-01T09:09:42.741Z",
+		"responsable": {
+			"firstName": "Howard",
+			"lastName": "Jerde"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Sensible al frío",
+			"No tener niños pequeños",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1136,
+		"idfundacion": 2,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-05-09T07:39:31.082Z",
+		"responsable": {
+			"firstName": "Simeon",
+			"lastName": "Bins"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Revisiones periódicas",
+			"Sensible al frío",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1137,
+		"idfundacion": 3,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-05-05T22:42:29.163Z",
+		"responsable": {
+			"firstName": "Liza",
+			"lastName": "Becker"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1138,
+		"idfundacion": 4,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-10-20T23:53:55.091Z",
+		"responsable": {
+			"firstName": "Perry",
+			"lastName": "Zulauf"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1139,
+		"idfundacion": 3,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-12-08T08:16:18.118Z",
+		"responsable": {
+			"firstName": "Kitty",
+			"lastName": "Nikolaus"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1140,
+		"idfundacion": 2,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-05-25T08:00:24.451Z",
+		"responsable": {
+			"firstName": "Elyse",
+			"lastName": "Schuster"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Sensible al frío",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1141,
+		"idfundacion": 1,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-06-15T18:40:55.139Z",
+		"responsable": {
+			"firstName": "Kendrick",
+			"lastName": "Senger"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Revisiones periódicas",
+			"Sensible al frío",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1142,
+		"idfundacion": 2,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-10-20T20:14:25.706Z",
+		"responsable": {
+			"firstName": "Donald",
+			"lastName": "Schiller"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1143,
+		"idfundacion": 1,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-07-05T02:33:34.611Z",
+		"responsable": {
+			"firstName": "Kaden",
+			"lastName": "Williamson"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"No comida procesada",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1144,
+		"idfundacion": 4,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-01-31T11:08:10.243Z",
+		"responsable": {
+			"firstName": "Griffin",
+			"lastName": "Kessler"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1145,
+		"idfundacion": 1,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-02-18T18:55:15.281Z",
+		"responsable": {
+			"firstName": "Perry",
+			"lastName": "Hickle"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Revisiones periódicas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1146,
+		"idfundacion": 3,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-07-22T22:18:25.948Z",
+		"responsable": {
+			"firstName": "Erik",
+			"lastName": "Morar"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Sensible al frío",
+			"No comida procesada",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1147,
+		"idfundacion": 1,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-11-02T23:44:57.065Z",
+		"responsable": {
+			"firstName": "Violet",
+			"lastName": "Bernhard"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1148,
+		"idfundacion": 3,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2022-11-26T16:35:18.306Z",
+		"responsable": {
+			"firstName": "Joanne",
+			"lastName": "Langosh"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1149,
+		"idfundacion": 2,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-08-04T12:24:03.533Z",
+		"responsable": {
+			"firstName": "Petra",
+			"lastName": "Spencer"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1150,
+		"idfundacion": 4,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-03-05T06:09:07.421Z",
+		"responsable": {
+			"firstName": "Gust",
+			"lastName": "Keebler"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1151,
+		"idfundacion": 2,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-04-14T10:58:56.269Z",
+		"responsable": {
+			"firstName": "Brigitte",
+			"lastName": "Lehner"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1152,
+		"idfundacion": 3,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-04-17T02:42:16.190Z",
+		"responsable": {
+			"firstName": "Anthony",
+			"lastName": "Runte"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1153,
+		"idfundacion": 4,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2022-10-17T22:59:38.728Z",
+		"responsable": {
+			"firstName": "Destiny",
+			"lastName": "Armstrong"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No tener niños pequeños",
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1154,
+		"idfundacion": 2,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-12-15T02:56:37.809Z",
+		"responsable": {
+			"firstName": "Gus",
+			"lastName": "Graham"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"Sensible al frío",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1155,
+		"idfundacion": 2,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-05-01T21:19:37.810Z",
+		"responsable": {
+			"firstName": "Kaleb",
+			"lastName": "Abshire"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1156,
+		"idfundacion": 3,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2022-11-23T16:44:22.293Z",
+		"responsable": {
+			"firstName": "Chadrick",
+			"lastName": "Hackett"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Hogar con más mascotas",
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1157,
+		"idfundacion": 4,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2022-12-02T12:52:39.626Z",
+		"responsable": {
+			"firstName": "Dagmar",
+			"lastName": "Dickens"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"No tener niños pequeños",
+			"No comida procesada",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1158,
+		"idfundacion": 4,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2022-10-21T19:07:27.542Z",
+		"responsable": {
+			"firstName": "Alene",
+			"lastName": "Hayes"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1159,
+		"idfundacion": 3,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-06-28T02:40:44.075Z",
+		"responsable": {
+			"firstName": "Oswaldo",
+			"lastName": "Kuhn"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"No tener niños pequeños",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1160,
+		"idfundacion": 3,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 14,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-06-21T06:39:28.363Z",
+		"responsable": {
+			"firstName": "Nico",
+			"lastName": "Casper"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1161,
+		"idfundacion": 4,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-09-25T05:50:47.094Z",
+		"responsable": {
+			"firstName": "Catherine",
+			"lastName": "Lynch"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1162,
+		"idfundacion": 2,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-04-23T18:13:26.562Z",
+		"responsable": {
+			"firstName": "Desmond",
+			"lastName": "Bergnaum"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Revisiones periódicas",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1163,
+		"idfundacion": 3,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-04-09T15:59:51.129Z",
+		"responsable": {
+			"firstName": "Arvid",
+			"lastName": "Swift"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1164,
+		"idfundacion": 2,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-08-08T09:29:06.724Z",
+		"responsable": {
+			"firstName": "Abner",
+			"lastName": "Bailey"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1165,
+		"idfundacion": 1,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-05-20T10:57:03.674Z",
+		"responsable": {
+			"firstName": "Alyce",
+			"lastName": "Rutherford"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1166,
+		"idfundacion": 3,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 4,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-06-06T15:31:42.998Z",
+		"responsable": {
+			"firstName": "Golda",
+			"lastName": "Upton"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1167,
+		"idfundacion": 4,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2022-10-17T13:39:09.806Z",
+		"responsable": {
+			"firstName": "Burley",
+			"lastName": "Blick"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1168,
+		"idfundacion": 2,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-01-04T02:00:00.738Z",
+		"responsable": {
+			"firstName": "Tess",
+			"lastName": "Huel"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1169,
+		"idfundacion": 1,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 7,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-10-24T06:38:26.593Z",
+		"responsable": {
+			"firstName": "Aubree",
+			"lastName": "Braun"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No tener niños pequeños",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1170,
+		"idfundacion": 1,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2022-12-22T09:40:34.276Z",
+		"responsable": {
+			"firstName": "Eliza",
+			"lastName": "Schmidt"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Sensible al frío",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1171,
+		"idfundacion": 1,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2022-10-24T17:19:56.997Z",
+		"responsable": {
+			"firstName": "Kyleigh",
+			"lastName": "Sawayn"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Revisiones periódicas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1172,
+		"idfundacion": 1,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2022-11-25T05:35:45.617Z",
+		"responsable": {
+			"firstName": "Brook",
+			"lastName": "O'Keefe"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1173,
+		"idfundacion": 1,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-05-12T20:55:48.677Z",
+		"responsable": {
+			"firstName": "Javon",
+			"lastName": "Kunze"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1174,
+		"idfundacion": 2,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-02-09T02:04:19.263Z",
+		"responsable": {
+			"firstName": "Mable",
+			"lastName": "Erdman"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1175,
+		"idfundacion": 3,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-12-10T00:50:58.177Z",
+		"responsable": {
+			"firstName": "Keeley",
+			"lastName": "Feest"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1176,
+		"idfundacion": 4,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-08-13T10:13:16.334Z",
+		"responsable": {
+			"firstName": "Fredrick",
+			"lastName": "Dickens"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1177,
+		"idfundacion": 1,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-02-15T07:21:43.286Z",
+		"responsable": {
+			"firstName": "Fausto",
+			"lastName": "Yundt"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Hogar con más mascotas",
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1178,
+		"idfundacion": 2,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-07-04T14:23:23.671Z",
+		"responsable": {
+			"firstName": "Herman",
+			"lastName": "Will"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Hogar con más mascotas",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1179,
+		"idfundacion": 4,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 12,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-02-12T16:44:03.920Z",
+		"responsable": {
+			"firstName": "Buford",
+			"lastName": "Romaguera"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No tener niños pequeños",
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1180,
+		"idfundacion": 4,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-07-07T17:41:38.766Z",
+		"responsable": {
+			"firstName": "Jonathon",
+			"lastName": "Glover"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1181,
+		"idfundacion": 3,
+		"apodo": "Truman",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-07-25T09:08:32.987Z",
+		"responsable": {
+			"firstName": "Tomas",
+			"lastName": "Bogan"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1182,
+		"idfundacion": 4,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2022-09-02T19:32:28.448Z",
+		"responsable": {
+			"firstName": "Alda",
+			"lastName": "Schamberger"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1183,
+		"idfundacion": 3,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-02-22T23:01:55.596Z",
+		"responsable": {
+			"firstName": "Cierra",
+			"lastName": "Beatty"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1184,
+		"idfundacion": 2,
+		"apodo": "Cometa",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-01-28T23:07:51.450Z",
+		"responsable": {
+			"firstName": "Rashad",
+			"lastName": "Pollich"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1185,
+		"idfundacion": 4,
+		"apodo": "Jimbo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-05-18T02:52:44.470Z",
+		"responsable": {
+			"firstName": "Austin",
+			"lastName": "Kerluke"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1186,
+		"idfundacion": 2,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2022-09-28T18:45:47.526Z",
+		"responsable": {
+			"firstName": "Wilma",
+			"lastName": "Pouros"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1187,
+		"idfundacion": 1,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2023-08-14T06:20:51.546Z",
+		"responsable": {
+			"firstName": "Polly",
+			"lastName": "Smitham"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"Revisiones periódicas",
+			"No tener niños pequeños",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1188,
+		"idfundacion": 3,
+		"apodo": "Botas",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-09-10T12:45:14.864Z",
+		"responsable": {
+			"firstName": "Bertha",
+			"lastName": "Lemke"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1189,
+		"idfundacion": 2,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg",
+		"fechaCita": "2023-02-13T13:56:36.888Z",
+		"responsable": {
+			"firstName": "Mckayla",
+			"lastName": "Kohler"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1190,
+		"idfundacion": 2,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 8,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-08-14T03:30:31.147Z",
+		"responsable": {
+			"firstName": "Eda",
+			"lastName": "Gerlach"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Sensible al frío",
+			"No tener niños pequeños",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1191,
+		"idfundacion": 2,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 2,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-09-13T09:33:48.128Z",
+		"responsable": {
+			"firstName": "Hope",
+			"lastName": "Wisozk"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1192,
+		"idfundacion": 1,
+		"apodo": "Benji",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2023-05-06T13:12:35.911Z",
+		"responsable": {
+			"firstName": "Kenneth",
+			"lastName": "Brekke"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1193,
+		"idfundacion": 1,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-12-23T06:01:30.979Z",
+		"responsable": {
+			"firstName": "Charley",
+			"lastName": "Bednar"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1194,
+		"idfundacion": 1,
+		"apodo": "Huesos",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 10,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+		"fechaCita": "2023-03-12T22:07:59.859Z",
+		"responsable": {
+			"firstName": "Tiffany",
+			"lastName": "Conroy"
+		},
+		"condicionesMascota": [
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1195,
+		"idfundacion": 2,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 9,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2023-04-04T15:30:39.921Z",
+		"responsable": {
+			"firstName": "Fiona",
+			"lastName": "Rodriguez"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"No comida procesada",
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1196,
+		"idfundacion": 3,
+		"apodo": "Titi",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 10,
+		"imagen": "https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+		"fechaCita": "2022-10-16T22:39:42.129Z",
+		"responsable": {
+			"firstName": "Johann",
+			"lastName": "Oberbrunner"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1197,
+		"idfundacion": 3,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+		"fechaCita": "2023-06-30T05:33:33.936Z",
+		"responsable": {
+			"firstName": "Leilani",
+			"lastName": "Bechtelar"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños"
+		]
+	},
+	{
+		"idmascota": 1198,
+		"idfundacion": 1,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2023-05-03T20:11:26.467Z",
+		"responsable": {
+			"firstName": "Grayce",
+			"lastName": "O'Conner"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas",
+			"No tener niños pequeños",
+			"Sensible al frío",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1199,
+		"idfundacion": 2,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 11,
+		"peso": 8,
+		"imagen": "https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+		"fechaCita": "2022-09-24T23:14:45.444Z",
+		"responsable": {
+			"firstName": "Carlotta",
+			"lastName": "Cronin"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas"
+		]
+	},
+	{
+		"idmascota": 1200,
+		"idfundacion": 4,
+		"apodo": "Moon",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+		"fechaCita": "2022-10-31T03:54:53.153Z",
+		"responsable": {
+			"firstName": "Hilton",
+			"lastName": "Franecki"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1201,
+		"idfundacion": 1,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 4,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-06-30T18:41:23.043Z",
+		"responsable": {
+			"firstName": "Cletus",
+			"lastName": "Aufderhar"
+		},
+		"condicionesMascota": [
+			"Hogar con más mascotas",
+			"No comida procesada",
+			"Revisiones periódicas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1202,
+		"idfundacion": 2,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 13,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-01-21T12:44:28.829Z",
+		"responsable": {
+			"firstName": "Raquel",
+			"lastName": "Pfeffer"
+		},
+		"condicionesMascota": [
+			"No tener niños pequeños",
+			"Revisiones periódicas",
+			"Hogar con más mascotas",
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1203,
+		"idfundacion": 2,
+		"apodo": "Snoopy",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 6,
+		"peso": 7,
+		"imagen": "https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+		"fechaCita": "2023-05-23T23:10:36.027Z",
+		"responsable": {
+			"firstName": "Kari",
+			"lastName": "Powlowski"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1204,
+		"idfundacion": 2,
+		"apodo": "Sam",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 5,
+		"peso": 5,
+		"imagen": "https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg",
+		"fechaCita": "2022-12-20T04:09:04.203Z",
+		"responsable": {
+			"firstName": "Sandra",
+			"lastName": "O'Kon"
+		},
+		"condicionesMascota": [
+			"Revisiones periódicas"
+		]
+	},
+	{
+		"idmascota": 1205,
+		"idfundacion": 1,
+		"apodo": "Pongo",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 3,
+		"peso": 6,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2023-04-26T19:14:45.863Z",
+		"responsable": {
+			"firstName": "Cade",
+			"lastName": "Beer"
+		},
+		"condicionesMascota": [
+			"Sensible al frío"
+		]
+	},
+	{
+		"idmascota": 1206,
+		"idfundacion": 1,
+		"apodo": "Frozen",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 1,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-11-03T20:23:19.995Z",
+		"responsable": {
+			"firstName": "Breanne",
+			"lastName": "Blick"
+		},
+		"condicionesMascota": [
+			"Sensible al frío",
+			"No comida procesada"
+		]
+	},
+	{
+		"idmascota": 1207,
+		"idfundacion": 2,
+		"apodo": "Bubu",
+		"ciudad": "Esmeraldas",
+		"tipo": "Perro",
+		"genero": "macho",
+		"edad": 15,
+		"peso": 9,
+		"imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+		"fechaCita": "2022-11-14T14:58:22.082Z",
+		"responsable": {
+			"firstName": "Davion",
+			"lastName": "Schinner"
+		},
+		"condicionesMascota": [
+			"No comida procesada",
+			"Sensible al frío",
+			"Revisiones periódicas",
+			"No tener niños pequeños"
+		]
+	}
+]

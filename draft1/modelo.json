@@ -1,0 +1,77 @@
+ {
+    "config": {
+      "locale": "en"
+    },
+	"model": {
+		"type": "Object",
+		"value": {
+			"idUsuario": {
+				"type": "incrementNumber",
+				"options": {
+					"from": 1
+				}
+			},
+            "adoptante": {
+				"type": "Object",
+				"value": {
+					"firstName": {
+						"type": "faker",
+						"value": "name.firstName"
+					},
+					"lastName": {
+						"type": "faker",
+						"value": "name.lastName"
+					}, 
+                    "address": {
+                        "type": "faker",
+                        "value": "address.streetAddress"      
+			        }
+                }
+            },
+            "idFundacion": {
+				"type": "incrementNumber",
+				"options": {
+					"from": 325
+				}
+			},
+            "idMascota": {
+				"type": "incrementNumber",
+				"options": {
+					"from": 888
+				}
+			},
+			"fechaAdoptado": {
+				"type": "faker",
+				"value": "date.between",
+				"options": ["2018-03-25", "2022-08-01"]
+			},
+            "fechaCita": {
+				"type": "faker",
+				"value": "date.between",
+				"options": ["2022-09-01", "2022-08-20"]
+			},
+            "fundación": {    
+                "type": "randomElementInArray",
+                "value": ["Fundación Patitas", "Fundación Hi", "Fundación vive feliz", "Fundación tu compañia"]
+            },
+            "FondosFundación": {
+            "type": "randomNumberBetween",
+            "value": [150, 3000]
+            },
+            "imagenMascota": {
+                "type": "append",
+                "options": {"text": ".jpg"},
+                "value": {
+                  "type": "faker",
+                  "value": "random.words"
+                }
+            },
+            "condicionesMascota": {
+                "type": "randomElementsInArray",
+                "value": ["Hogar con más mascotas", "No tener niños pequeños", "No comida procesada", "Sensible al frío", "Revisiones periódicas"]
+              }
+
+
+		}
+	}
+}

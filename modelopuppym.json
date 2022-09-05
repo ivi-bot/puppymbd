@@ -1,0 +1,80 @@
+ {
+    "config": {
+      "locale": "en"
+    },
+	"model": {
+		"type": "Object",
+		"value": {
+			"idmascota": {
+				"type": "incrementNumber",
+				"options": {
+					"from": 1020
+				}
+			},
+			"idfundacion": {
+				"type": "randomNumberBetween",
+				"value": [1, 4]
+			},
+            "apodo": {
+				"type": "randomElementInArray",
+                "value": ["Snoopy", "Pongo", "Truman","Huesos","Frozen","Cometa","Sam","Bubu","Titi","Botas","Benji","Jimbo","Moon","Rex"]
+			},
+			"ciudad": {    
+                "type": "randomElementInArray",
+                "value": ["Esmeraldas","Guayaquil"]
+            },
+			"tipo": {    
+                "type": "Literal",
+                "value": "Perro"
+            },
+			"genero": {    
+                "type": "Literal",
+                "value": "macho"
+            },
+			"edad": {
+				"type": "randomNumberBetween",
+				"value": [1, 15]
+			},
+			"peso": {
+				"type": "randomNumberBetween",
+				"value": [4,10]
+			},
+			"imagen": {    
+                "type": "randomElementInArray",
+                "value": ["https://cdn.pixabay.com/photo/2017/03/27/13/23/dog-2178696_960_720.jpg", 
+				"https://cdn.pixabay.com/photo/2019/08/07/14/11/dog-4390885_960_720.jpg", 
+				"https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+				"https://cdn.pixabay.com/photo/2016/02/11/17/00/dog-1194087_960_720.jpg",
+				"https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_960_720.jpg",
+				"https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_960_720.jpg",
+				"https://cdn.pixabay.com/photo/2018/10/16/17/24/dog-3751980_960_720.jpg",
+				"https://cdn.pixabay.com/photo/2018/01/09/11/04/dog-3071334_960_720.jpg",
+				"https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+				"https://cdn.pixabay.com/photo/2018/05/07/10/49/husky-3380550_960_720.jpg"
+				]
+            },
+			"fechaCita": {
+				"type": "faker",
+				"value": "date.between",
+				"options": ["2022-09-01", "2023-08-20"]
+			},
+			"responsable": {
+				"type": "Object",
+				"value": {
+					"firstName": {
+						"type": "faker",
+						"value": "name.firstName"
+					},
+					"lastName": {
+						"type": "faker",
+						"value": "name.lastName"
+					}
+                }
+            },
+            "condicionesMascota": {
+                "type": "randomElementsInArray",
+                "value": ["Hogar con más mascotas", "No tener niños pequeños", "No comida procesada", "Sensible al frío", "Revisiones periódicas"]
+              }
+		}
+	}
+}
